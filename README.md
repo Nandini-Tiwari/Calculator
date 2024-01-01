@@ -23,7 +23,7 @@ To use the calculator:
 
 ## File Structure
 
-- `index.html`: Contains the structure of the calculator application.
+- `calculator.html`: Contains the structure of the calculator application.
 - `style.css`: Stylesheet file that defines the visual appearance of the calculator.
 - `script.js`: JavaScript file implementing the calculator's functionality.
 
